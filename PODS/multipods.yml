@@ -2,9 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: hello-pod
-  labels:
-    app: web
+  name: multi-pod
 spec:
   containers:
     - name: web-ctr
