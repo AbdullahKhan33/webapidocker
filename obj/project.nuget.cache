@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNN3AevbGvB5Z77UCneMftBpoygmjOPiZf3tHsh17ZZlqGj/wpEFzdmuBT4dI3yvpznWGKYfFIU3hGUxipRDeA==",
+  "success": true,
+  "projectFilePath": "D:\\CodeBase\\Sample-Projects\\weatherApi\\weatherApi\\weatherApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdullah Khan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

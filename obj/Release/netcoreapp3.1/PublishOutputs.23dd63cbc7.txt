@@ -1,0 +1,7 @@
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\weatherApi.exe
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\appsettings.Development.json
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\appsettings.json
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\weatherApi.dll
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\weatherApi.deps.json
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\weatherApi.runtimeconfig.json
+D:\CodeBase\Sample-Projects\weatherApi\weatherApi\obj\Docker\publish\weatherApi.pdb
